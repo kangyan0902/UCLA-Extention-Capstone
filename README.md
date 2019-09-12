@@ -1,10 +1,10 @@
-# ucla-extention-capstone
+# UCLA-Extention-Capstone
 ## Contributors
-*Yan Kang
-*Ellie Tan
-*Yifei Du
-*Sicheng Chen
-*Shuocheng Dong
+* Yan Kang
+* Ellie Tan
+* Yifei Du
+* Sicheng Chen
+* Shuocheng Dong
 
 ## Introduction
 The project is mainly focusing on finding a way to distinguish good or bad students. In order to do so, we used k-means clustering as an approach to solve this sepcific request from our clients.
