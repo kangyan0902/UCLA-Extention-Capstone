@@ -1,6 +1,6 @@
 # ucla-extention-capstone
 ## Contributors
-Yan Kang
+Yan Kang\n
 Ellie Tan
 Yifei Du
 Sicheng Chen
